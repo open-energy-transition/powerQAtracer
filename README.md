@@ -1,6 +1,6 @@
 # powerQAtracer
 
-Exports global [Osmose](https://osmose.openstreetmap.fr/) power-line issues (item 7040) at or above a voltage threshold as GeoJSON, ready to open in JOSM.
+Exports global OpenStreetmap's [Osmose](https://osmose.openstreetmap.fr/) power-line issues (item 7040) at or above a voltage threshold as GeoJSON, ready to open in JOSM.
 
 ## Usage
 
