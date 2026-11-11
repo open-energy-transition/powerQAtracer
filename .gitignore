@@ -1,6 +1,4 @@
 # Generated outputs and download caches
-*.geojson
-*.geojson.tmp
 *.state.sqlite
 *.state.sqlite-shm
 *.state.sqlite-wal
